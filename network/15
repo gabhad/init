@@ -1,0 +1,5 @@
+## Open /etc/hosts
+## Add new line
+## 46.19.122.85 intra.42.fr
+
+## route add intra.42.fr mask 255.255.255.255 46.19.122.85
