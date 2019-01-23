@@ -1,0 +1,7 @@
+ls /etc/rc*.d
+
+#Affiche les runlevel (niveau execution)
+# 0 halt system
+# 6 reboot system
+# 1 single user
+# 2-5 multi user mode
