@@ -1,3 +1,3 @@
-awk -F: '{ print  }' /etc/passwd
+awk -F':' '{ print $1}' /etc/passwd
 
 # cat /etc/passwd pour liste complete
